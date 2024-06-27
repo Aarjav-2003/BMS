@@ -2,7 +2,7 @@
 <p>Creating a bank management system is a complex and significant software project. Such a system typically involves handling customer accounts, transactions, security, and various banking operations. In this blog, we will discuss the key components and functionalities of a basic bank management system implemented in Java.</p>
 <h2>Understanding the Bank Management System</h2>
 <b>A bank management system aims to automate and streamline various banking operations to ensure efficiency, accuracy, and security in managing customer accounts and transactions. Here are some essential features:</b>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fbanking-management-software-21832894662.html&psig=AOvVaw17JeQmbBsNf3AkwMvcjhQM&ust=1719599231948000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjg3L60_IYDFQAAAAAdAAAAABAE" alt="Bank Management System">
 <b>Account Management:</b>
 <p>Customers can create, update, and close their accounts. Account information includes customer details, account balance, and account type (e.g., savings, checking).</p>
 
